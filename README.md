@@ -1,2 +1,2 @@
 # Site-em-HTML
-Site com HTML, CSS e PHP feito para a disciplina de WEB
+Site com HTML, CSS, JavaScript, SQL e PHP feito para a disciplina de WEB
